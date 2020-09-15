@@ -20,7 +20,8 @@
 * Instrumente de configurare.
 > 
 * Gestionarea rolurilor de utilizatori.
-> 
+Rolurile unei baze de date:  
+![Database Level roles permissions](/images/permissions-of-database-roles.png)
 
 * ### Securizarea bazei de date.
  Securitatea bazei de date este asigurata atat de catre structura acesteia, cat si de sistemul de gestiune pe care aceasta ruleaza. Sistemul de securitate al MSSS include urmatoarele elemnente principale:
