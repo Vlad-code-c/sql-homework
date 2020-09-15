@@ -17,9 +17,9 @@
    ![Connection window](/images/connection_window.png),  
    daca in campul Server Name se afla numele utilizatorului actual, apasam _Connect_. In caz contrar in campul Server Name apasam pe buttonul :arrow_down_small: -> `Browse for more...` -> `Database Engine` si selectam numele utilizatorului necesar.
 
-* Instrumente de configurare.
-> 
-* Gestionarea rolurilor de utilizatori.
+<!-- * Instrumente de configurare.
+> -->
+* ### Gestionarea rolurilor de utilizatori.  
 Rolurile unei baze de date:  
 ![Database Level roles permissions](/images/permissions-of-database-roles.png)
 
