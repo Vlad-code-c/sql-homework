@@ -9,9 +9,7 @@
   La fel ca serverul, instalarea acestei aplicatii nu necesita explicatii, totul fiind simplu si comod.  
   
   - Dupa instalarea acestor doua aplicatii, in meniul Start vor aparea toate aplicatiile   
-   ![Context Menu](/aplicatii _sgbd.png) 
-
-![GitHub Logo](/aplicatii_sgbd.png)
+   ![Context Menu](/images/aplicatii_sgbd.png) 
 
 * Instrumente de configurare.
 * Gestionarea rolurilor de utilizatori.
