@@ -1,5 +1,5 @@
 
-# Tema pentru acasă
+### Tema pentru acasă
 
 - Instrumente de instalare.
 - Instrumente de configurare.
