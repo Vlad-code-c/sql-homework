@@ -14,7 +14,7 @@
    
    Pentru a incepe sa folosim sistemul de gesitune, vom lansa aplicatia  `Microsoft SQL server management studio 18`.  
    Dupa aparitia urmatoarei ferestre:  
-   ![Connection window](/images/connection_window.png)
+   ![Connection window](/images/connection_window.png),  
    daca in campul Server Name se afla numele utilizatorului actual, apasam Connect. In caz contrar in campul Server Name apasam pe buttonul :arrow_down_small: -> `Browse for more...` -> `Database Engine` si selectam numele utilizatorului necesar.
 
 * Instrumente de configurare.
