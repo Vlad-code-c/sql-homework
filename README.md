@@ -11,6 +11,8 @@
   - Dupa instalarea acestor doua aplicatii, in meniul Start vor aparea toate aplicatiile necesare pentru configurarea, lansarea si intretinerea serverului.
     
    ![Context Menu](/images/aplicatii_sgbd.png) 
+   
+   Pentru a incepe sa folosim sistemul de gesitune, vom lansa aplicatia  `Microsoft SQL server management studio 18`  
 
 * Instrumente de configurare.
 * Gestionarea rolurilor de utilizatori.
