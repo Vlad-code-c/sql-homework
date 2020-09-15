@@ -19,4 +19,13 @@
 
 * Instrumente de configurare.
 * Gestionarea rolurilor de utilizatori.
-* Securizarea bazei de date.
+
+* ### Securizarea bazei de date.
+ Securitatea bazei de date este asigurata atat de catre structura acesteia, cat si de sistemul de gestiune pe care aceasta ruleaza. Sistemul de securitate al MSSS include urmatoarele elemnente principale:
+  - Autentificarea
+     In sistemul de gestiune MS SQL cuprinde doua subsisteme pentru conectarea la baza de date: `autentificarea Windows` - care este asigurata la nivel de sistem operational, si `securitatea SQL Server` - care necesita o autentificare suplimentara la server.
+  - Rolurile
+    Pentru a crea un utilizator nou, pot fi utilizate modul design sau modul prin comenzi sql.  
+    Sintaxa comenzii sql este urmatoarea:  
+    `CREATE LOGIN <login> WITH PASSWORD = <password>`
+    Pentru a crea un nou utilizator, utilizând Management Studio, din lista obiectelor serverului (Object Explorer) extindeţi ramura Security. După aceasta, tasta dreapta pe Logins şi alegeţi New Login. Se va deschide fereastra de dialog Login în care se completează datele necesare.
