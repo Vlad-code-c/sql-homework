@@ -20,7 +20,7 @@
 <!-- * Instrumente de configurare.
 > -->
 * ### Gestionarea rolurilor de utilizatori.  
-Rolurile unei baze de date:  
+     Rolurile de baza ale unei baze de date:  
 ![Database Level roles permissions](/images/permissions-of-database-roles.png)
 
 * ### Securizarea bazei de date.
