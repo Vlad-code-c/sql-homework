@@ -18,7 +18,9 @@
    daca in campul Server Name se afla numele utilizatorului actual, apasam _Connect_. In caz contrar in campul Server Name apasam pe buttonul :arrow_down_small: -> `Browse for more...` -> `Database Engine` si selectam numele utilizatorului necesar.
 
 * Instrumente de configurare.
+` `
 * Gestionarea rolurilor de utilizatori.
+` `
 
 * ### Securizarea bazei de date.
  Securitatea bazei de date este asigurata atat de catre structura acesteia, cat si de sistemul de gestiune pe care aceasta ruleaza. Sistemul de securitate al MSSS include urmatoarele elemnente principale:
@@ -27,5 +29,5 @@
   - Rolurile
     Pentru a crea un utilizator nou, pot fi utilizate modul design sau modul prin comenzi sql.  
     Sintaxa comenzii sql este urmatoarea:  
-    `CREATE LOGIN <login> WITH PASSWORD = <password>`
+    `CREATE LOGIN <login> WITH PASSWORD = <password>`  
     Pentru a crea un nou utilizator, utilizând Management Studio, din lista obiectelor serverului (Object Explorer) extindeţi ramura Security. După aceasta, tasta dreapta pe Logins şi alegeţi New Login. Se va deschide fereastra de dialog Login în care se completează datele necesare.
