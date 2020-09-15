@@ -8,7 +8,10 @@
   - In continuare, avem nevoie sa descarcam sgbd-ul propriu zis (in engleza SQL SERVER MANAGEMENT STUDIO -> SSMS), disponibil [aici](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15&viewFallbackFrom=sql-server-2019).  
   La fel ca serverul, instalarea acestei aplicatii nu necesita explicatii, totul fiind simplu si comod.  
   
-  - Dupa instalarea acestor doua aplicatii, in meniul Start vor aparea toate aplicatiile 
+  - Dupa instalarea acestor doua aplicatii, in meniul Start vor aparea toate aplicatiile   
+   ![Context Menu](/aplicatii _sgbd.png) 
+
+![GitHub Logo](/aplicatii_sgbd.png)
 
 * Instrumente de configurare.
 * Gestionarea rolurilor de utilizatori.
